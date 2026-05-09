@@ -1,0 +1,13 @@
+Budapest;Berlin;24550;29;9;256;1705,1706,2901,2902,2903;4,1,0,1
+New York;Istambul;31000;34;10;334;3401,3402,3403,3301,3302,3303;3,2,0,1
+London;Boston;32665;35;11;383;0501,0502;0,2,0,0
+Bukarest;Amsterdam;22500;29;7;202;0501;0,1,0,0
+Debrecen;Athen;21255;29;6;169;1701,1702,1703,1801,1802;4,0,1,0
+Tokyo;Los Angeles;34559;35;12;420;0,0,0,0
+Lisszabon;Reykjavik;23990;30;9;270;0,0,0,0
+Budapest;Parizs;29890;31;8;248;0,0,0,0
+Frankfurt;Egyiptom;39455;38;13;494;0,0,0,0
+Abu-Dzabi;Berlin;36000;35;10;350;0,0,0,0
+London;Madrid;23999;25;8;200;0,0,0,0
+Amsterdam;New York;31090;34;10;340;0,0,0,0
+Budapest;Hamburg;25000;28;6;167;2806;0,0,0,1

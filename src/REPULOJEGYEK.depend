@@ -1,0 +1,573 @@
+# depslib dependency file v1.0
+1701019420 source:d:\desktop\repulojegyek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"PrintHandler.h"
+	"Jarat_InputHandler.h"
+	"Foglalas_InputHandler.h"
+	"Jaratok_Print.h"
+	"SeatHandler.h"
+	"FoodHandler.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1699388836 d:\desktop\repulojegyek\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701019420 source:d:\desktop\nhf\repulojegyek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"PrintHandler.h"
+	"Jarat_InputHandler.h"
+	"Foglalas_InputHandler.h"
+	"Jaratok_Print.h"
+	"SeatHandler.h"
+	"FoodHandler.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1699388836 d:\desktop\nhf\repulojegyek\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701010910 source:d:\desktop\nhf\repulojegyek\foglalas_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028180 source:d:\desktop\nhf\repulojegyek\seathandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"SeatHandler.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028150 source:d:\desktop\nhf\repulojegyek\datastructures.c
+	<stdlib.h>
+	"DataStructures.h"
+	"debugmalloc.h"
+
+1701010748 source:d:\desktop\nhf\repulojegyek\free_memory.c
+	<stdlib.h>
+	"DataStructures.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1700870673 d:\desktop\nhf\repulojegyek\datastructures.h
+
+1701028145 source:d:\desktop\nhf\repulojegyek\check_search.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1700872519 d:\desktop\nhf\repulojegyek\logical.h
+	<stdbool.h>
+
+1701028176 source:d:\desktop\nhf\repulojegyek\printhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"PrintHandler.h"
+	"debugmalloc.h"
+
+1701028155 source:d:\desktop\nhf\repulojegyek\filehandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"Jarat_InputHandler.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1700870166 d:\desktop\nhf\repulojegyek\jarat_inputhandler.h
+
+1700936268 d:\desktop\nhf\repulojegyek\jaratok_print.h
+
+1700870845 d:\desktop\nhf\repulojegyek\foglalas_inputhandler.h
+
+1701028163 source:d:\desktop\nhf\repulojegyek\foodhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"FoodHandler.h"
+	"debugmalloc.h"
+
+1700873659 d:\desktop\nhf\repulojegyek\check_search.h
+
+1701010900 source:d:\desktop\nhf\repulojegyek\jarat_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jarat_InputHandler.h"
+	"debugmalloc.h"
+
+1701028173 source:d:\desktop\nhf\repulojegyek\logical.c
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1701373512 source:d:\desktop\nhf\repulojegyek\jaratok_print.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028250 d:\desktop\nhf\repulojegyek\filehandler.h
+
+1700872411 d:\desktop\nhf\repulojegyek\printhandler.h
+
+1700936302 d:\desktop\nhf\repulojegyek\seathandler.h
+
+1700936106 d:\desktop\nhf\repulojegyek\foodhandler.h
+
+1700871819 d:\desktop\nhf\repulojegyek\free_memory.h
+
+1701028145 source:d:\desktop\repulojegyek\check_search.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1700870673 d:\desktop\repulojegyek\datastructures.h
+
+1700873659 d:\desktop\repulojegyek\check_search.h
+
+1700872519 d:\desktop\repulojegyek\logical.h
+	<stdbool.h>
+
+1701028150 source:d:\desktop\repulojegyek\datastructures.c
+	<stdlib.h>
+	"DataStructures.h"
+	"debugmalloc.h"
+
+1701028155 source:d:\desktop\repulojegyek\filehandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"Jarat_InputHandler.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028250 d:\desktop\repulojegyek\filehandler.h
+
+1700870166 d:\desktop\repulojegyek\jarat_inputhandler.h
+
+1700936268 d:\desktop\repulojegyek\jaratok_print.h
+
+1700870845 d:\desktop\repulojegyek\foglalas_inputhandler.h
+
+1701010910 source:d:\desktop\repulojegyek\foglalas_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028163 source:d:\desktop\repulojegyek\foodhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"FoodHandler.h"
+	"debugmalloc.h"
+
+1700936106 d:\desktop\repulojegyek\foodhandler.h
+
+1701010748 source:d:\desktop\repulojegyek\free_memory.c
+	<stdlib.h>
+	"DataStructures.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1700871819 d:\desktop\repulojegyek\free_memory.h
+
+1701010900 source:d:\desktop\repulojegyek\jarat_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jarat_InputHandler.h"
+	"debugmalloc.h"
+
+1701028169 source:d:\desktop\repulojegyek\jaratok_print.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028173 source:d:\desktop\repulojegyek\logical.c
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1700872411 d:\desktop\repulojegyek\printhandler.h
+
+1700936302 d:\desktop\repulojegyek\seathandler.h
+
+1701028176 source:d:\desktop\repulojegyek\printhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"PrintHandler.h"
+	"debugmalloc.h"
+
+1701028180 source:d:\desktop\repulojegyek\seathandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"SeatHandler.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028145 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\check_search.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1700870673 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\datastructures.h
+
+1700873659 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\check_search.h
+
+1700872519 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\logical.h
+	<stdbool.h>
+
+1699388836 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701540344 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\datastructures.c
+	<stdlib.h>
+	"DataStructures.h"
+	"debugmalloc.h"
+
+1701028155 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\filehandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"Jarat_InputHandler.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028250 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\filehandler.h
+
+1700870166 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jarat_inputhandler.h
+
+1700936268 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jaratok_print.h
+
+1700870845 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foglalas_inputhandler.h
+
+1701010910 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foglalas_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028163 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foodhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"FoodHandler.h"
+	"debugmalloc.h"
+
+1700936106 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foodhandler.h
+
+1701010748 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\free_memory.c
+	<stdlib.h>
+	"DataStructures.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1700871819 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\free_memory.h
+
+1701010900 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jarat_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jarat_InputHandler.h"
+	"debugmalloc.h"
+
+1701373512 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jaratok_print.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028173 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\logical.c
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1701019420 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"PrintHandler.h"
+	"Jarat_InputHandler.h"
+	"Foglalas_InputHandler.h"
+	"Jaratok_Print.h"
+	"SeatHandler.h"
+	"FoodHandler.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1700872411 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\printhandler.h
+
+1700936302 d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\seathandler.h
+
+1701028176 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\printhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"PrintHandler.h"
+	"debugmalloc.h"
+
+1701028180 source:d:\desktop\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\seathandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"SeatHandler.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028145 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\check_search.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1700870673 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\datastructures.h
+
+1700873659 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\check_search.h
+
+1700872519 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\logical.h
+	<stdbool.h>
+
+1699388836 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\debugmalloc.h
+	<stdbool.h>
+	<stddef.h>
+	<stdlib.h>
+	<stdio.h>
+	<ctype.h>
+	<string.h>
+	<stdarg.h>
+	<process.h>
+	<unistd.h>
+
+1701540344 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\datastructures.c
+	<stdlib.h>
+	"DataStructures.h"
+	"debugmalloc.h"
+
+1701028155 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\filehandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<math.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"Jarat_InputHandler.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028250 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\filehandler.h
+
+1700870166 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jarat_inputhandler.h
+
+1700936268 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jaratok_print.h
+
+1700870845 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foglalas_inputhandler.h
+
+1701010910 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foglalas_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"Foglalas_InputHandler.h"
+	"debugmalloc.h"
+
+1701028163 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foodhandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"FoodHandler.h"
+	"debugmalloc.h"
+
+1700936106 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\foodhandler.h
+
+1701010748 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\free_memory.c
+	<stdlib.h>
+	"DataStructures.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1700871819 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\free_memory.h
+
+1701010900 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jarat_inputhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jarat_InputHandler.h"
+	"debugmalloc.h"
+
+1701373512 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\jaratok_print.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+
+1701028173 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\logical.c
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	"DataStructures.h"
+	"Logical.h"
+	"debugmalloc.h"
+
+1701019420 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	"DataStructures.h"
+	"FileHandler.h"
+	"PrintHandler.h"
+	"Jarat_InputHandler.h"
+	"Foglalas_InputHandler.h"
+	"Jaratok_Print.h"
+	"SeatHandler.h"
+	"FoodHandler.h"
+	"Free_Memory.h"
+	"debugmalloc.h"
+
+1700872411 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\printhandler.h
+
+1700936302 d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\seathandler.h
+
+1701028176 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\printhandler.c
+	<stdlib.h>
+	<stdio.h>
+	"PrintHandler.h"
+	"debugmalloc.h"
+
+1701028180 source:d:\desktop\oskola\egyetem szarok\1. f…l…v\programoz¡s alapjai i\nhf\repulojegyek\seathandler.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"DataStructures.h"
+	"Check_Search.h"
+	"Logical.h"
+	"SeatHandler.h"
+	"Jaratok_Print.h"
+	"debugmalloc.h"
+

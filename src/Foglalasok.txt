@@ -1,0 +1,12 @@
+Horvath Balazs;Budapest;Berlin;24550;1705,1706;2,0,0,1
+Kis Pista;Budapest;Berlin;24550;2901,2902,2903;2,1,0,0
+Cserepes Virag;Bukarest;Amsterdam;22500;0501;0,1,0,0
+Nagy Arpad;New York;Istambul;31000;3401,3402,3403,3301,3302,3303;3,2,0,1
+Horvath Ignac;London;Boston;32665;0501,0502;0,2,0,0
+Kozepes Zoltan;Debrecen;Athen;21255;1701,1702,1703,1801,1802;4,0,1,0
+Toth Geza;Tokyo;Los Angeles;34559;-1,0,0,0
+Kis Nora;Szentpetervar;Stockholm;26700;2001,2002,2005,2007;4,0,0,0
+Nagy Rita;Moszkva;Oslo;20000;0101,0102,0103;0,3,0,0
+Gyorgy Robert;San Francisco;Tokyo;32500;-1,0,0,0
+Olajos Lajos;Budapest;Hamburg;25000;2806;0,0,0,1
+Balazs;Budapest;Parizs;29890;-1,0,0,0

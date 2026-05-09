@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="REPULOJEGYEK" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/REPULOJEGYEK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-Wall" />
+					<Add option="-g" />
+					<Add option="-Werror" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/REPULOJEGYEK" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-Wall" />
+					<Add option="-Werror" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Check_Search.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Check_Search.h" />
+		<Unit filename="DataStructures.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="DataStructures.h" />
+		<Unit filename="FileHandler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FileHandler.h" />
+		<Unit filename="Foglalas_InputHandler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Foglalas_InputHandler.h" />
+		<Unit filename="FoodHandler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="FoodHandler.h" />
+		<Unit filename="Free_Memory.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Free_Memory.h" />
+		<Unit filename="Jarat_InputHandler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Jarat_InputHandler.h" />
+		<Unit filename="Jaratok_Print.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Jaratok_Print.h" />
+		<Unit filename="Logical.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="Logical.h" />
+		<Unit filename="PrintHandler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="PrintHandler.h" />
+		<Unit filename="SeatHandler.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SeatHandler.h" />
+		<Unit filename="debugmalloc.h" />
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
